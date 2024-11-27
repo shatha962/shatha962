@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Shatha and I'm a coding trainer in AXSOS Academy
 
 <!--
 **shatha962/shatha962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
